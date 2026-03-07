@@ -30,7 +30,6 @@
     <img src="https://go-skill-icons.vercel.app/api/icons?i=cs,dotnet,sqlserver,swagger,angular,html,css,js,python,mongodb,docker,git&perline=6" style="height:105px;"/> &nbsp;
 </p>
 
-📊 GitHub Stats
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=kero-emad&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
+  <i>Feel free to reach out to me for collaborations or just a friendly hello!</i>
 </p>
