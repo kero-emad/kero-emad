@@ -9,7 +9,7 @@
 <p align="center">
     <a href="https://yourportfolio.com">
       <img src="https://img.shields.io/badge/🔗 My Portfolio-FF6B6B?style=flat" style="height:35px; object-fit:contain;"/></a> &nbsp;
-    <a href="https://drive.google.com/file/d/YOUR_CV_LINK/view">
+    <a href="https://drive.google.com/file/d/1BCBqqAkP5fQIEdeP5YNJ_SKV_p1uouE8/view?usp=drive_link">
       <img src="https://img.shields.io/badge/🔗 My CV-007520?style=flat" style="height:35px; object-fit:contain;"/></a>
 </p>
 
@@ -18,9 +18,9 @@
 <p align="left">
     <a href="mailto:kyrillosemad2025@gmail.com">
       <img src="https://static.wikia.nocookie.net/google/images/7/72/Logo-gmail.png/revision/latest/thumbnail/width/360/height/360?cb=20201214214241" height="50"/></a> &nbsp;
-    <a href="https://linkedin.com/in/kerolosemad">
+    <a href="https://www.linkedin.com/in/kerolos-emad-a63954285/">
       <img src="https://www.iconpacks.net/icons/1/free-linkedin-icon-130-thumb.png" height="50"/></a> &nbsp;
-    <a href="https://github.com/kerolosemad">
+    <a href="https://github.com/kero-emad">
       <img src="https://cdn-icons-png.flaticon.com/256/733/733553.png" height="50"/></a>
 </p>
 
