@@ -31,6 +31,6 @@
 </p>
 
 📊 GitHub Stats
-<p align="left">
-    <img src="https://streak-stats.demolab.com/?user=kero-emad&theme=highcontrast" height="105"/>
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=kero-emad&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
 </p>
