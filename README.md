@@ -28,5 +28,9 @@
 
 <p align="left">
     <img src="https://go-skill-icons.vercel.app/api/icons?i=cs,dotnet,sqlserver,swagger,angular,html,css,js,python,mongodb,docker,git&perline=6" style="height:105px;"/> &nbsp;
-    <img src="https://streak-stats.demolab.com/?user=kerolosemad&theme=highcontrast" height="105"/>
+</p>
+
+📊 GitHub Stats
+<p align="left">
+    <img src="https://streak-stats.demolab.com/?user=kero-emad&theme=highcontrast" height="105"/>
 </p>
