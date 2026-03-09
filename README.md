@@ -7,8 +7,10 @@
 </div>
 
 <p align="center">
+  <!--
     <a href="https://yourportfolio.com">
       <img src="https://img.shields.io/badge/🔗 My Portfolio-FF6B6B?style=flat" style="height:35px; object-fit:contain;"/></a> &nbsp;
+  -->
     <a href="https://drive.google.com/file/d/1BCBqqAkP5fQIEdeP5YNJ_SKV_p1uouE8/view?usp=drive_link">
       <img src="https://img.shields.io/badge/🔗 My CV-007520?style=flat" style="height:35px; object-fit:contain;"/></a>
 </p>
