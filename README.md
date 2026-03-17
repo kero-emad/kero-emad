@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Kerolos Emad Saad</h1>
-<h2 align="center">.NET Developer | Backend Specialist | Full Stack</h2>
+<h2 align="center">.NET Developer | Full Stack</h2>
 
 <div align="center">
   
